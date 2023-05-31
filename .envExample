@@ -6,3 +6,5 @@ POSTGRES_PORT=5432
 SECRET_KEY=some_secret_key
 SCI_HUB_USERNAME=username_for_scihub.copernicus.eu
 SCI_HUB_PASSWORD=password_for_scihub.copernicus.eu
+SCI_HUB_USERNAME_V2=username_for_dataspace.copernicus.eu
+SCI_HUB_PASSWORD_V2=password_for_dataspace.copernicus.eu
